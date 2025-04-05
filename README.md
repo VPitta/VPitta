@@ -10,11 +10,11 @@
 
 ### 🛠️ Tecnologias & Ferramentas
 
-- Java ☕
-- Spring Boot 🌱
-- Git & GitHub 🔧
-- IntelliJ IDEA / VS Code 🧠
-- Banco de dados (MySQL básico) 🗄️
+- Java ☕  
+- Spring Boot 🌱  
+- Git & GitHub 🔧  
+- IntelliJ IDEA / VS Code 🧠  
+- Banco de dados (MySQL básico) 🗄️  
 
 ---
 
@@ -22,12 +22,11 @@
 
 > ⚠️ *Projetos simples realizados durante estudos e desafios de cursos*
 
-- 📌 [Desafio de Sintaxe em Java](https://github.com/VPitta/DesafioSintaxeJAVA.git)  
+- 📌 [Desafio de Sintaxe em Java](https://github.com/VPitta/DesafioSintaxeJAVA)  
   Exercícios introdutórios focados na estrutura e sintaxe básica da linguagem Java.
 
-- 📌 [Desafio Fluxo de Controle em Java](https://github.com/VPitta/DesafioFluxoDeControle-JAVA.git)  
-  Prática com estruturas de controle como if, else, switch e for, aplicadas em exemplos de lógica simples.
-
+- 📌 [Desafio Fluxo de Controle em Java](https://github.com/VPitta/DesafioFluxoDeControle-JAVA)  
+  Prática com estruturas de controle como `if`, `else`, `switch` e `for`, aplicadas em exemplos de lógica simples.
 
 ---
 

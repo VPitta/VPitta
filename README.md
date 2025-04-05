@@ -22,10 +22,10 @@
 
 > ⚠️ *Projetos simples realizados durante estudos e desafios de cursos*
 
-- 📌 [Desafio de Siontaxe em Java]((https://github.com/VPitta/DesafioSintaxeJAVA.git))  
+- 📌 [Desafio de Siontaxe em Java](https://github.com/VPitta/DesafioSintaxeJAVA.git)  
   Exercícios introdutórios focados na estrutura e sintaxe básica da linguagem Java.
 
-- 📌 [Desafio Fluxo de Controle em Java]((https://github.com/VPitta/DesafioFluxoDeControle-JAVA.git))  
+- 📌 [Desafio Fluxo de Controle em Java](https://github.com/VPitta/DesafioFluxoDeControle-JAVA.git)  
   Prática com estruturas de controle como if, else, switch e for, aplicadas em exemplos de lógica simples.
 
 
@@ -34,7 +34,7 @@
 ### 📫 Como me encontrar
 
 - 📧 Email: vinicius.pita.95@outlook.com  
-- 💼 LinkedIn: [viniius-pita](https://www.linkedin.com/in/vinicius-pita/)  
+- 💼 LinkedIn: [vinicius-pita](https://www.linkedin.com/in/vinicius-pita/)  
 - 🖥️ GitHub: [VPitta](https://github.com/VPitta)
 
 ---

@@ -22,7 +22,7 @@
 
 > ⚠️ *Projetos simples realizados durante estudos e desafios de cursos*
 
-- 📌 [Desafio de Siontaxe em Java](https://github.com/VPitta/DesafioSintaxeJAVA.git)  
+- 📌 [Desafio de Sintaxe em Java](https://github.com/VPitta/DesafioSintaxeJAVA.git)  
   Exercícios introdutórios focados na estrutura e sintaxe básica da linguagem Java.
 
 - 📌 [Desafio Fluxo de Controle em Java](https://github.com/VPitta/DesafioFluxoDeControle-JAVA.git)  

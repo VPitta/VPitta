@@ -22,21 +22,20 @@
 
 > ⚠️ *Projetos simples realizados durante estudos e desafios de cursos*
 
-- 📌 [Desafio Calculadora de Média](https://github.com/VPitta/nome-do-projeto)  
-  Pequeno projeto que calcula a média de notas com entrada do usuário via terminal em Java.
+- 📌 [Desafio de Siontaxe em Java]((https://github.com/VPitta/DesafioSintaxeJAVA.git))  
+  Exercícios introdutórios focados na estrutura e sintaxe básica da linguagem Java.
 
-- 📌 [API Simples de Produtos (Spring Boot)](https://github.com/VPitta/nome-do-projeto)  
-  API REST com operações básicas de cadastro e listagem de produtos.
+- 📌 [Desafio Fluxo de Controle em Java]((https://github.com/VPitta/DesafioFluxoDeControle-JAVA.git))  
+  Prática com estruturas de controle como if, else, switch e for, aplicadas em exemplos de lógica simples.
 
-> (⚙️ Substitua os links pelos nomes reais dos repositórios, e adicione mais se quiser!)
 
 ---
 
 ### 📫 Como me encontrar
 
 - 📧 Email: vinicius.pita.95@outlook.com  
-- 💼 LinkedIn: [linkedin.com/in/vinicius-pita](https://www.linkedin.com/in/vinicius-pita/)  
-- 🖥️ GitHub: [github.com/VPitta](https://github.com/VPitta)
+- 💼 LinkedIn: [viniius-pita](https://www.linkedin.com/in/vinicius-pita/)  
+- 🖥️ GitHub: [VPitta](https://github.com/VPitta)
 
 ---
 

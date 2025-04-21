@@ -23,8 +23,8 @@
 
 > ⚠️ *Projetos simples realizados durante estudos e desafios de cursos*
 
-- 📌 [Projeto Base: Criar Uma Página Web Utilizando as Tags Aprendidas](https://github.com/VPitta/PrimeiroHTML)  
-  Estrutura de uma página institucional com foco em boas práticas de HTML.
+- 📌 [Projeto Mundo PetCare - Clínica Veterinária em HTML e CSS](https://github.com/VPitta/SiteHTML.git)  
+  Site fictício de uma clínica veterinária com estrutura completa: introdução, serviços, tabela de preços e página de contato. Desenvolvido com HTML5 e CSS3 como prática de aprendizado.
 
 - 📌 [To-Do List com JavaScript](https://github.com/VPitta/nome-do-projeto)  
   Lista de tarefas com funcionalidades de adicionar, remover e marcar como concluído usando JavaScript puro.

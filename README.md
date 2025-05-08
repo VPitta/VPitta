@@ -1,7 +1,7 @@
-### 👋 Olá! Eu sou o Vinicius Pita — Desenvolvedor Frontend em formação
+### 👋 Olá! Eu sou o Vinicius Pita — Desenvolvedor Backend em formação
 
-💻 Atualmente estudando **JavaScript** com foco em **desenvolvimento web frontend**  
-📚 Aprendendo sobre **HTML**, **CSS**, **JS** e frameworks como **React**  
+💻 Atualmente estudando **Java** com foco em desenvolvimento **backend**  
+📚 Aprendendo sobre **lógica de programação**, **POO** e **APIs com Spring Boot**  
 🔧 Praticando com **desafios de cursos** e pequenos **projetos pessoais**  
 🚀 Em busca da minha **primeira oportunidade profissional** na área de tecnologia  
 🌱 Sempre em evolução e com muita vontade de aprender
@@ -10,12 +10,11 @@
 
 ### 🛠️ Tecnologias & Ferramentas
 
-- JavaScript  
-- HTML & CSS  
-- React (básico)  
-- Git & GitHub  
-- VS Code  
-- Figma (noções básicas)
+- Java ☕  
+- Spring Boot 🌱  
+- Git & GitHub 🔧  
+- IntelliJ IDEA / VS Code 🧠  
+- Banco de dados (MySQL básico) 🗄️  
 
 ---
 
@@ -23,11 +22,11 @@
 
 > ⚠️ *Projetos simples realizados durante estudos e desafios de cursos*
 
-- 📌 [Projeto Mundo PetCare - Clínica Veterinária em HTML e CSS](https://github.com/VPitta/SiteHTML.git)  
-  Site fictício de uma clínica veterinária com estrutura completa: introdução, serviços, tabela de preços e página de contato. Desenvolvido com HTML5 e CSS3 como prática de aprendizado.
+- 📌 [Desafio de Sintaxe em Java](https://github.com/VPitta/DesafioSintaxeJAVA)  
+  Exercícios introdutórios focados na estrutura e sintaxe básica da linguagem Java.
 
-- 📌 [To-Do List com JavaScript](https://github.com/VPitta/nome-do-projeto)  
-  Lista de tarefas com funcionalidades de adicionar, remover e marcar como concluído usando JavaScript puro.
+- 📌 [Desafio Fluxo de Controle em Java](https://github.com/VPitta/DesafioFluxoDeControle-JAVA)  
+  Prática com estruturas de controle como `if`, `else`, `switch` e `for`, aplicadas em exemplos de lógica simples.
 
 ---
 
@@ -41,4 +40,4 @@
 
 ### ✨ Curiosidade
 
-Sou movido por desafios e adoro ver uma interface ganhando vida com código. Estou construindo minha base sólida em frontend e pronto para evoluir ainda mais!
+Gosto de transformar problemas em soluções com código, e estou animado para crescer como desenvolvedor backend!!

@@ -1,32 +1,33 @@
-### 👋 Olá! Eu sou o Vinicius Pita — Desenvolvedor Backend em formação
+### 👋 Olá! Eu sou o Vinicius Pita — QA em formação com foco em testes automatizados
 
-💻 Atualmente estudando **Java** com foco em desenvolvimento **backend**  
-📚 Aprendendo sobre **lógica de programação**, **POO** e **APIs com Spring Boot**  
-🔧 Praticando com **desafios de cursos** e pequenos **projetos pessoais**  
-🚀 Em busca da minha **primeira oportunidade profissional** na área de tecnologia  
-🌱 Sempre em evolução e com muita vontade de aprender
+💻 Estudando **Quality Assurance** com foco em **automação de testes de aplicações web**  
+📚 Aprendendo **lógica de programação**, **POO**, **JavaScript** e ferramentas modernas como **Cypress**  
+🧪 Praticando **testes end-to-end (E2E)**, **testes de API** e criação de **cenários automatizados**  
+🚀 Em busca da minha **primeira oportunidade profissional** como QA  
+🌱 Com dedicação e vontade de crescer na área de qualidade de software
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
-- Java ☕  
-- Spring Boot 🌱  
-- Git & GitHub 🔧  
-- IntelliJ IDEA / VS Code 🧠  
-- Banco de dados (MySQL básico) 🗄️  
+- Cypress 🌿 (E2E / testes de interface)  
+- JavaScript  
+- Postman (testes de API)  
+- Git & GitHub  
+- Selenium (básico)  
+- VS Code  
 
 ---
 
 ### 💡 Projetos em Destaque
 
-> ⚠️ *Projetos simples realizados durante estudos e desafios de cursos*
+> ⚠️ *Projetos desenvolvidos durante bootcamps, cursos e práticas individuais de QA*
 
-- 📌 [Desafio de Sintaxe em Java](https://github.com/VPitta/DesafioSintaxeJAVA)  
-  Exercícios introdutórios focados na estrutura e sintaxe básica da linguagem Java.
+- 📌 [Testes E2E com Cypress](https://github.com/VPitta/nome-do-projeto)  
+  Testes automatizados com Cypress simulando ações de usuário em interface web.
 
-- 📌 [Desafio Fluxo de Controle em Java](https://github.com/VPitta/DesafioFluxoDeControle-JAVA)  
-  Prática com estruturas de controle como `if`, `else`, `switch` e `for`, aplicadas em exemplos de lógica simples.
+- 📌 [Validação de APIs com Postman](https://github.com/VPitta/nome-do-projeto)  
+  Criação de coleções de testes de API REST com verificação de respostas e status codes.
 
 ---
 
@@ -40,4 +41,4 @@
 
 ### ✨ Curiosidade
 
-Gosto de transformar problemas em soluções com código, e estou animado para crescer como desenvolvedor backend!!
+Tenho foco em qualidade, atenção aos detalhes e procuro sempre garantir que a experiência do usuário seja segura e confiável. Testar é antecipar problemas — e isso me motiva todos os dias.

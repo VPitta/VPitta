@@ -1,33 +1,33 @@
-### 👋 Olá! Eu sou o Vinicius Pita — QA em formação com foco em testes automatizados
+### 👋 Olá! Eu sou o Vinicius Pita — QA em formação com foco em automação de testes
 
-💻 Estudando **Quality Assurance** com foco em **automação de testes de aplicações web**  
-📚 Aprendendo **lógica de programação**, **POO**, **JavaScript** e ferramentas modernas como **Cypress**  
-🧪 Praticando **testes end-to-end (E2E)**, **testes de API** e criação de **cenários automatizados**  
-🚀 Em busca da minha **primeira oportunidade profissional** como QA  
-🌱 Com dedicação e vontade de crescer na área de qualidade de software
+💻 Estudando **Quality Assurance (QA)** com foco em **Cypress** para automação de testes de aplicações web  
+📚 Aprendendo sobre **lógica de programação**, **POO** e boas práticas de testes de software  
+🧪 Praticando **testes end-to-end (E2E)**, **testes de API** e **validação de interface**  
+🚀 Em busca da minha **primeira oportunidade profissional** como QA Tester  
+🌱 Sempre evoluindo, curioso e dedicado a entregar qualidade em software  
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
-- Cypress 🌿 (E2E / testes de interface)  
-- JavaScript  
+- Cypress 🌿 (E2E, UI e API Testing)  
+- JavaScript (para automação de testes)  
 - Postman (testes de API)  
 - Git & GitHub  
-- Selenium (básico)  
 - VS Code  
+- SQL (básico)  
 
 ---
 
 ### 💡 Projetos em Destaque
 
-> ⚠️ *Projetos desenvolvidos durante bootcamps, cursos e práticas individuais de QA*
+> ⚠️ *Projetos realizados em bootcamps, cursos e práticas individuais de QA*
 
 - 📌 [Testes E2E com Cypress](https://github.com/VPitta/nome-do-projeto)  
-  Testes automatizados com Cypress simulando ações de usuário em interface web.
+  Automação de cenários de usuário em aplicações web com Cypress.
 
 - 📌 [Validação de APIs com Postman](https://github.com/VPitta/nome-do-projeto)  
-  Criação de coleções de testes de API REST com verificação de respostas e status codes.
+  Criação de coleções de testes de API REST com verificação de status codes e respostas.
 
 ---
 
@@ -38,6 +38,7 @@
 - 🖥️ GitHub: [VPitta](https://github.com/VPitta)
 
 ---
+
 
 ### ✨ Curiosidade
 

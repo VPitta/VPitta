@@ -23,7 +23,7 @@
 
 > ⚠️ *Projetos realizados em bootcamps, cursos e práticas individuais de QA*
 
-- 📌 [Cypress Real World App Tests]((https://github.com/VPitta/cypress-realworld-tests-vinicius))  
+- 📌 [Cypress Real World App Tests](https://github.com/VPitta/cypress-realworld-tests-vinicius)  
   Este repositório contém uma suíte de testes automatizados em **Cypress** para o [Real World App](https://github.com/cypress-io/cypress-realworld-app), aplicação oficial do Cypress usada para demonstração.
 
 - 📌 [Validação de APIs com Postman](https://github.com/VPitta/nome-do-projeto)  

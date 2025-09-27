@@ -33,7 +33,7 @@
 
 ### 📫 Como me encontrar
 
-- 📧 Email: vinicius.pita.95@outlook.com  
+- 📧 Email: vpita.95@outlook.com  
 - 💼 LinkedIn: [vinicius-pita](https://www.linkedin.com/in/vinicius-pita/)  
 - 🖥️ GitHub: [VPitta](https://github.com/VPitta)
 

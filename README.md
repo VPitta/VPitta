@@ -1,45 +1,63 @@
-### 👋 Olá! Eu sou o Vinicius Pita — QA em formação com foco em automação de testes
-
-💻 Estudando **Quality Assurance (QA)** com foco em **Cypress** para automação de testes de aplicações web  
-📚 Aprendendo sobre **lógica de programação**, **POO** e boas práticas de testes de software  
-🧪 Praticando **testes end-to-end (E2E)**, **testes de API** e **validação de interface**  
-🚀 Em busca da minha **primeira oportunidade profissional** como QA Tester  
-🌱 Sempre evoluindo, curioso e dedicado a entregar qualidade em software  
+<h1 align="center">Olá, eu sou Vinícius Pita 👋</h1>
+<p align="center">QA & Automação de Testes | Cypress | Postman | Sempre em evolução</p>
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
-
-- Cypress 🌿 (E2E, UI e API Testing)  
-- JavaScript (para automação de testes)  
-- Postman (testes de API)  
-- Git & GitHub  
-- VS Code  
-- SQL (básico)  
+## 📍 Sobre Mim
+- 🔹 Localização: São Paulo, SP, Brasil  
+- 🔹 Formação: Análise e Desenvolvimento de Sistemas (2º semestre)  
+- 🔹 Experiência: QA, testes manuais, automação de testes e validação de APIs  
+- 🔹 Ex-técnico de informática e redes LAN/WAN  
 
 ---
 
-### 💡 Projetos em Destaque
+## 🧪 Minhas Competências
 
-> ⚠️ *Projetos realizados em bootcamps, cursos e práticas individuais de QA*
+### Linguagens & Ferramentas
+<p align="left">
+  <img src="https://img.shields.io/badge/Cypress-100000?style=for-the-badge&logo=cypress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
-- 📌 [Cypress Real World App Tests](https://github.com/VPitta/cypress-realworld-tests-vinicius)  
-  Este repositório contém uma suíte de testes automatizados em **Cypress** para o [Real World App](https://github.com/cypress-io/cypress-realworld-app), aplicação oficial do Cypress usada para demonstração.
-
-- 📌 [Validação de APIs com Postman](https://github.com/VPitta/nome-do-projeto)  
-  Criação de coleções de testes de API REST com verificação de status codes e respostas.
+### Testes e QA
+<p align="left">
+  <img src="https://img.shields.io/badge/Testes%20Automatizados-Cypress-blue"/>
+  <img src="https://img.shields.io/badge/Testes%20Manuais-green"/>
+  <img src="https://img.shields.io/badge/Testes%20de%20API-Postman-orange"/>
+  <img src="https://img.shields.io/badge/Documenta%C3%A7%C3%A3o-TestRail-red"/>
+  <img src="https://img.shields.io/badge/Metodologias-Agile-purple"/>
+</p>
 
 ---
 
-### 📫 Como me encontrar
+## 📚 Projetos em Destaque
 
-- 📧 Email: vpita.95@outlook.com  
-- 💼 LinkedIn: [vinicius-pita](https://www.linkedin.com/in/vinicius-pita/)  
-- 🖥️ GitHub: [VPitta](https://github.com/VPitta)
+### 1️⃣ Cypress Real World App Tests
+- **Descrição**: Testes E2E de login e cadastro  
+- **Tecnologias**: Cypress, JavaScript  
+- **Link**: [https://github.com/VPitta/cypress-realworld-tests-vinicius](#)
+
+### 2️⃣ Validação de APIs com Postman
+- **Descrição**: Testes de endpoints RESTful  
+- **Tecnologias**: Postman, JavaScript  
+- **Link**: [github.com/viniciuspita/postman-api-testing](#)
+
+### 3️⃣ Testes Manuais Funcionais
+- **Descrição**: Criação de cenários de teste e regressão  
+- **Ferramentas**: Excel, TestRail  
 
 ---
 
+## 🔗 Conecte-se Comigo
 
-### ✨ Curiosidade
+<p align="center">
+  <a href="https://www.linkedin.com/in/viniciuspita"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/viniciuspita"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:vinicius.pita@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-Tenho foco em qualidade, atenção aos detalhes e procuro sempre garantir que a experiência do usuário seja segura e confiável. Testar é antecipar problemas — e isso me motiva todos os dias.
+---

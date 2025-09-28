@@ -46,8 +46,8 @@
 - 📌 [Cypress Real World App Tests](https://github.com/VPitta/cypress-realworld-tests-vinicius)  
   Suíte de testes automatizados em **Cypress** para o [Real World App](https://github.com/cypress-io/cypress-realworld-app).
 
-- 📌 [Validação de APIs com Postman](https://github.com/VPitta/nome-do-projeto)  
-  Coleções de testes de **APIs REST** com verificação de status codes e respostas.
+- 📌 [QA Manual: Documentação e Fluxo de Testes](https://github.com/VPitta/Dio-QA-Desafio.git)  
+  Projeto de QA manual realizado na dio.me, com foco em documentação, BDD, mindmaps e controle de tarefas no Jira.
 
 - 📌 [Testes Manuais Funcionais](https://github.com/VPitta/nome-do-projeto-manual)  
   Criação de cenários de teste e regressão, documentação de casos de teste no **Jira**.

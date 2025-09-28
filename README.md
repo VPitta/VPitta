@@ -50,13 +50,12 @@
   **Descrição**: Suíte de testes automatizados em **Cypress** para o [Real World App](https://github.com/cypress-io/cypress-realworld-app)  
   **Destaques**: Testes E2E de login, cadastro e fluxo de usuários  
 
-- 📌 [Testes Manuais Funcionais](https://github.com/VPitta/nome-do-projeto-manual)  
-  ![QA](https://img.shields.io/badge/QA-007ACC?style=for-the-badge&logo=qa&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+- 📌 [Testes Manuais Funcionais](https://github.com/VPitta/Dio-QA-Desafio.git)  
+  ![QA](https://img.shields.io/badge/QA-007ACC?style=for-the-badge&logo=qa&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
   **Descrição**: Criação de cenários de teste, regressão e documentação de casos de teste no **Jira**  
-  **Destaques**: Planejamento de testes, mindmaps e BDD 
+  **Destaques**: Planejamento de testes, mindmaps e BDD  
 
-
-<!-- - 📌 [Testes Manuais Funcionais](https://github.com/VPitta/nome-do-projeto-manual)  
+<!--- 📌 [Testes Manuais Funcionais](https://github.com/VPitta/nome-do-projeto-manual)  
   ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
   **Descrição**: Criação de cenários de teste e regressão, documentação de casos de teste no **Jira**  
   **Destaques**: Planejamento e execução de testes manuais detalhados, garantindo cobertura e rastreabilidade -->

@@ -5,10 +5,10 @@
 
 ### 💻 Sobre Mim
 - 🔹 Localização: São Paulo, SP, Brasil  
-- 🔹 Formação: Análise e Desenvolvimento de Sistemas (2º semestre)  
+<!--- 🔹 Formação: Análise e Desenvolvimento de Sistemas (2º semestre)  -->
 - 🔹 Experiência: QA em formação, ex-técnico de informática e redes LAN/WAN  
 - 🔹 Estudando **Quality Assurance (QA)** com foco em **Cypress** para automação de testes de aplicações web  
-- 🔹 Aprendendo **lógica de programação**, **POO** e boas práticas de testes de software  
+<!--- 🔹 Aprendendo **lógica de programação**, **POO** e boas práticas de testes de software  -->
 - 🔹 Praticando **testes end-to-end (E2E)**, **testes de API** e **validação de interface**  
 - 🔹 Em busca da minha **primeira oportunidade profissional** como QA Tester  
 - 🔹 Sempre evoluindo, curioso e dedicado a entregar qualidade em software 🌱  

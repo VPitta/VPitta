@@ -42,6 +42,7 @@
 
 ### 💡 Projetos em Destaque
 > ⚠️ *Projetos realizados em bootcamps, cursos e práticas individuais de QA*
+> 
 
 
 - 📌 [Cypress Real World App Tests](https://github.com/VPitta/cypress-realworld-tests-vinicius)  

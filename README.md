@@ -52,7 +52,6 @@
 
 - 📌 [Testes Manuais Funcionais](https://github.com/VPitta/nome-do-projeto-manual)  
   ![QA](https://img.shields.io/badge/QA-007ACC?style=for-the-badge&logo=qa&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-  
   **Descrição**: Criação de cenários de teste, regressão e documentação de casos de teste no **Jira**  
   **Destaques**: Planejamento de testes, mindmaps e BDD 
 

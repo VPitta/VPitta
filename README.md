@@ -4,7 +4,7 @@
 ---
 
 ### 💻 Sobre Mim
-- 🔹 Localização: São Paulo, SP, Brasil  
+- 🔹 Localização: Santos, SP, Brasil  
 - 🔹 Experiência: QA em formação, ex-técnico de informática e redes LAN/WAN  
 - 🔹 Estudando **Quality Assurance (QA)** com foco em **Cypress** para automação de testes de aplicações web  
 - 🔹 Aprendendo **lógica de programação**, **POO** e boas práticas de testes de software  

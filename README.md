@@ -50,7 +50,7 @@
   **Descrição**: Suíte de testes automatizados em **Cypress** para o [Real World App](https://github.com/cypress-io/cypress-realworld-app)  
   **Destaques**: Testes E2E de login, cadastro e fluxo de usuários  
 
-- 📌 [Marvel API – Testes Manuais](https://github.com/VPitta/marvel-api-tests)
+- 📌 [Marvel API – Testes Manuais](https://github.com/VPitta/marvel-api-tests)  
   ![Em Desenvolvimento](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)   
   ![Cypress](https://img.shields.io/badge/Cypress-100000?style=for-the-badge&logo=cypress&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
   **Descrição**: Projeto autoral de QA com foco em testes da **Marvel API**, incluindo criação de cenários de teste manual, validação de endpoints e documentação de casos no **Jira**.  

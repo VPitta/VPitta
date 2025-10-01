@@ -82,10 +82,11 @@ Tenho foco em **qualidade**, atenção aos detalhes e procuro sempre garantir qu
 ---
 
 ## 📊 Minhas Estatísticas no GitHub
-
-| ![Vinicius Pita GitHub Stats](https://github-readme-stats.vercel.app/api?username=vpitta&show_icons=true&theme=dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vpitta&layout=compact&langs_count=16&theme=dark) |
-|:---:|:---:|
-
+<div>
+  <a href="https://github.com/VPitta">
+<img height="180" src= "https://github-readme-stats.vercel.app/api?username=vpitta&show_icons=true&theme=dark"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpitta&layout=compact&langs_count=16&&theme=dark"/>
+</div>
 ---
 
 <p align="center">Made with ❤️ by Vinicius Pita</p>

@@ -83,7 +83,7 @@ Tenho foco em **qualidade**, atenção aos detalhes e procuro sempre garantir qu
 
 ## 📊 Minhas Estatísticas no GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vpitta&show_icons=true&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vpitta&layout=compact&theme=github_dark&cache_seconds=1800)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vpitta&show_icons=true&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vpitta&layout=compact&langs_count=16&&theme=dark)
 
 
 ---

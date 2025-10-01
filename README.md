@@ -80,5 +80,14 @@
 Tenho foco em **qualidade**, atenção aos detalhes e procuro sempre garantir que a experiência do usuário seja **segura e confiável**. Testar é **antecipar problemas** — e isso me motiva todos os dias.
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VPitta&layout=compact&theme=radical&bg_color=000000&text_color=ffffff&icon_color=ff0000" />
+</p>
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VPitta&show_icons=true&theme=radical&hide_title=true&hide_rank=true&text_color=ffffff&icon_color=ff0000&bg_color=000000" alt="Vinicius Pita GitHub Stats" />
+</p>
+
+---
 
 <p align="center">Made with ❤️ by Vinicius Pita</p>

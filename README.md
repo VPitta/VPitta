@@ -64,6 +64,19 @@
 
 
 
+---
+
+## 📊 Minhas Estatísticas no GitHub
+<div>
+  <a href="https://github.com/VPitta">
+<img height="180" src= "https://github-readme-stats.vercel.app/api?username=vpitta&show_icons=true&theme=dark"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpitta&layout=compact&langs_count=16&&theme=dark"/>
+</div>
+    
+---
+
+### ✨ Curiosidade
+Tenho foco em **qualidade**, atenção aos detalhes e procuro sempre garantir que a experiência do usuário seja **segura e confiável**. Testar é **antecipar problemas** — e isso me motiva todos os dias.
 
 ---
 
@@ -74,20 +87,7 @@
   <a href="https://github.com/VPitta"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
 
-### ✨ Curiosidade
-Tenho foco em **qualidade**, atenção aos detalhes e procuro sempre garantir que a experiência do usuário seja **segura e confiável**. Testar é **antecipar problemas** — e isso me motiva todos os dias.
-
----
-
-## 📊 Minhas Estatísticas no GitHub
-<div>
-  <a href="https://github.com/VPitta">
-<img height="180" src= "https://github-readme-stats.vercel.app/api?username=vpitta&show_icons=true&theme=dark"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpitta&layout=compact&langs_count=16&&theme=dark"/>
-</div>
-    
 ---
 
 <p align="center">Made with ❤️ by Vinicius Pita</p>

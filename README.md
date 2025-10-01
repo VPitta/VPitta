@@ -83,9 +83,10 @@ Tenho foco em **qualidade**, atenção aos detalhes e procuro sempre garantir qu
 
 ## 📊 Minhas Estatísticas no GitHub
 
-![Vinicius Pita GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniciusPita&show_icons=true&count_private=true&theme=github_dark)
+| Git Stats | Linguagens Mais Usadas |
+|-----------|-----------------------|
+| ![Vinicius Pita GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniciusPita&show_icons=true&count_private=true&theme=github_dark&cache_seconds=1800) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPita&layout=compact&theme=github_dark&cache_seconds=1800) |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPita&layout=compact&theme=github_dark)
 
 ---
 

@@ -80,10 +80,6 @@
 Tenho foco em **qualidade**, atenção aos detalhes e procuro sempre garantir que a experiência do usuário seja **segura e confiável**. Testar é **antecipar problemas** — e isso me motiva todos os dias.
 
 ---
-## 📊 Minhas Estatísticas no GitHub
-
-## 📊 GitHub Stats
-
 ## 📊 GitHub Stats
 
 <table>
@@ -98,7 +94,6 @@ Tenho foco em **qualidade**, atenção aos detalhes e procuro sempre garantir qu
     </td>
   </tr>
 </table>
-
 
 ---
 

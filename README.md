@@ -1,8 +1,14 @@
 <h1 align="center">👋 Olá! Eu sou Vinicius Pita</h1>
 
----
-
-<p align="center">QA em formação com foco em automação de testes 🚀</p>
+### 💻 Sobre Mim
+- 🔹 Localização: Santos, SP, Brasil  
+- 🔹 Experiência: QA em formação, ex-técnico de informática e redes LAN/WAN  
+- 🔹 Estudando **Quality Assurance (QA)** com foco em **Cypress** para automação de testes de aplicações web  
+- 🔹 Aprendendo **lógica de programação**, **POO** e boas práticas de testes de software  
+- 🔹 Praticando **testes end-to-end (E2E)**, **testes de API** e **validação de interface**  
+- 🔹 Em busca da minha **primeira oportunidade profissional** como QA Tester  
+- 🔹 Sempre evoluindo, curioso e dedicado a entregar qualidade em software 🌱
+<!--- 🔹 Formação: Análise e Desenvolvimento de Sistemas (2º semestre) -->
 
 ---
 
@@ -16,17 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50px"/>
 </p>
 
----
-
-### 💻 Sobre Mim
-- 🔹 Localização: Santos, SP, Brasil  
-- 🔹 Experiência: QA em formação, ex-técnico de informática e redes LAN/WAN  
-- 🔹 Estudando **Quality Assurance (QA)** com foco em **Cypress** para automação de testes de aplicações web  
-- 🔹 Aprendendo **lógica de programação**, **POO** e boas práticas de testes de software  
-- 🔹 Praticando **testes end-to-end (E2E)**, **testes de API** e **validação de interface**  
-- 🔹 Em busca da minha **primeira oportunidade profissional** como QA Tester  
-- 🔹 Sempre evoluindo, curioso e dedicado a entregar qualidade em software 🌱
-<!--- 🔹 Formação: Análise e Desenvolvimento de Sistemas (2º semestre) -->
 
 ---
 

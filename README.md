@@ -3,6 +3,18 @@
 
 ---
 
+<p align="center" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px" />   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50px"/>    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50px"/>
+</p>
+
+---
+
 ### 💻 Sobre Mim
 - 🔹 Localização: Santos, SP, Brasil  
 - 🔹 Experiência: QA em formação, ex-técnico de informática e redes LAN/WAN  
@@ -12,20 +24,6 @@
 - 🔹 Em busca da minha **primeira oportunidade profissional** como QA Tester  
 - 🔹 Sempre evoluindo, curioso e dedicado a entregar qualidade em software 🌱
 <!--- 🔹 Formação: Análise e Desenvolvimento de Sistemas (2º semestre) -->
-
----
-
-### 🛠️ Tecnologias & Ferramentas
-<p align="left">
-  <img src="https://img.shields.io/badge/Cypress-100000?style=for-the-badge&logo=cypress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-</p>
 
 ---
 
@@ -67,10 +65,11 @@
 ---
 
 ## 📊 Minhas Estatísticas no GitHub
-<div>
+
+<div align="center">
   <a href="https://github.com/VPitta">
-<img height="180" src= "https://github-readme-stats.vercel.app/api?username=vpitta&show_icons=true&theme=dark"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpitta&layout=compact&langs_count=16&&theme=dark"/>
+<img height="180em" src= "https://github-readme-stats.vercel.app/api?username=vpitta&show_icons=true&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpitta&layout=compact&langs_count=16&&theme=dark"/>
 </div>
     
 ---

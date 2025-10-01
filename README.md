@@ -83,9 +83,7 @@ Tenho foco em **qualidade**, atenção aos detalhes e procuro sempre garantir qu
 
 ## 📊 Minhas Estatísticas no GitHub
 
-![Vinicius Pita GitHub Followers](https://img.shields.io/github/followers/ViniciusPita?label=Seguidores&style=for-the-badge)
-![Repositórios Públicos](https://img.shields.io/github/repos/ViniciusPita?style=for-the-badge)
-![Estrelas](https://img.shields.io/github/stars/ViniciusPita?style=for-the-badge)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vpitta)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens Mais Usadas
 ![Top Languages](https://img.shields.io/github/languages/top/ViniciusPita?style=for-the-badge)

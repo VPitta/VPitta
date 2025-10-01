@@ -80,17 +80,9 @@
 Tenho foco em **qualidade**, atenção aos detalhes e procuro sempre garantir que a experiência do usuário seja **segura e confiável**. Testar é **antecipar problemas** — e isso me motiva todos os dias.
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VPitta&layout=compact&theme=radical&bg_color=000000&text_color=ffffff&icon_color=ff0000" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VPitta&show_icons=true&theme=radical&hide_title=true&hide_rank=true&bg_color=000000&icon_color=ff0000&text_color=ffffff" alt="Vinicius Pita GitHub Stats" />
-</p>
+## 📊 Minhas Estatísticas no GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VPitta&layout=compact&theme=radical&bg_color=000000&icon_color=ff0000&text_color=ffffff" />
-</p>
-
+![Estatísticas do GitHub](https://camo.githubusercontent.com/0feb80fcfdb1992345fee64e1a115ef805cae826896b604d07800232dd4ec11e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d6769746875625f6461726b)
 
 ---
 

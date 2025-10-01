@@ -1,4 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou Vinicius Pita</h1>
+
+---
+
 <p align="center">QA em formação com foco em automação de testes 🚀</p>
 
 ---

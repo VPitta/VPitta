@@ -80,10 +80,10 @@
 Tenho foco em **qualidade**, atenção aos detalhes e procuro sempre garantir que a experiência do usuário seja **segura e confiável**. Testar é **antecipar problemas** — e isso me motiva todos os dias.
 
 ---
-## 📊 GitHub Stats
 
-### Vinicius Pita GitHub Stats
-![Vinicius Pita GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniciusPita&show_icons=true&count_private=true&theme=github_dark&hide_title=true)
+## 📊 Minhas Estatísticas no GitHub
+
+![Estatísticas do GitHub](https://camo.githubusercontent.com/0feb80fcfdb1992345fee64e1a115ef805cae826896b604d07800232dd4ec11e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d6769746875625f6461726b)
 
 ---
 

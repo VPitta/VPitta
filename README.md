@@ -13,13 +13,16 @@
 ---
 
 <p align="center" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px" />   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="50px" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50px"/>    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="50px"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px" />       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50px"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50px"/>  
+  
 </p>
 
 
@@ -53,10 +56,11 @@
   **Destaques**: Planejamento e execução de testes manuais detalhados com Postman, garantindo cobertura de API, rastreabilidade dos casos e aplicação de boas práticas de Quality Assurance.
 
   
-- 📌 [Testes Manuais Funcionais](https://github.com/VPitta/Dio-QA-Desafio.git)  
-  ![QA](https://img.shields.io/badge/QA-007ACC?style=for-the-badge&logo=qa&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
-  **Descrição**: Criação de cenários de teste, regressão e documentação de casos de teste no **Jira**  
-  **Destaques**: Planejamento de testes, mindmaps e BDD  
+- 📌 [Portfólio - GitHub Pages](https://github.com/VPitta/my-portfolio-pages.git)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+  **Descrição**: Este é o meu Portfólio Pessoal, criado do zero utilizando HTML, CSS e JavaScript como parte do desafio da DIO.  
+  **Destaques**: Exibição dinâmica de informações do portfólio a partir de um arquivo JSON hospedado no GitHub.
 
 
 
